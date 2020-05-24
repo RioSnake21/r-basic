@@ -18,3 +18,9 @@ install.packages("magic", dep =TRUE)
 library(magic)
 
 #Si cierro rstudio (cerrar sesión), debo volver a cargar todas las librerias otra vez.
+
+#Si quiero saber que paquetes tengo instalados:
+
+installed.packages()
+
+#Puedo usar R como calculadora directamente haciendo operaciones en la consola
